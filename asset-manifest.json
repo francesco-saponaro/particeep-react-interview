@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/particeep-react-interview/static/css/main.ebb56b75.css",
+    "main.js": "/particeep-react-interview/static/js/main.b0d1ea38.js",
+    "index.html": "/particeep-react-interview/index.html",
+    "main.ebb56b75.css.map": "/particeep-react-interview/static/css/main.ebb56b75.css.map",
+    "main.b0d1ea38.js.map": "/particeep-react-interview/static/js/main.b0d1ea38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb56b75.css",
+    "static/js/main.b0d1ea38.js"
+  ]
+}

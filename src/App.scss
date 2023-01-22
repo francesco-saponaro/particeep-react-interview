@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+button {
+  cursor: pointer;
+}
+
+label {
+  margin-right: 2px;
+}
+
+select {
+  cursor: pointer;
+}

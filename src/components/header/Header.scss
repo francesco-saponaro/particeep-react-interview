@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__text {
+    font-family: "Luckiest Guy", cursive;
+    font-size: 5vw;
+    color: #222831;
+    text-shadow: 2px 2px 4px #000000;
+    margin: 15px;
+
+    @media screen and (max-width: 768px) {
+      font-size: 2.8em;
+    }
+  }
+}
